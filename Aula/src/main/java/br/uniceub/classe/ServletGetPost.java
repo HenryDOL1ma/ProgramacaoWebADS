@@ -21,7 +21,7 @@ public class ServletGetPost extends HttpServlet {
     	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
     	PrintWriter saida = resp.getWriter();
 		saida.write("<HTML><BODY>Olá! ");
-		saida.write("Resposta do método GET ");
+		saida.write("Resposta do método GET GET GET ");
 		saida.write("</BODY></HTML>");
 		saida.close();
     	}

@@ -36,4 +36,4 @@ public class ServletGetPost extends HttpServlet {
     }
 
 }
-//deve de programação web
+//deve de programação 

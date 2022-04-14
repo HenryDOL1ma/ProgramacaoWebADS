@@ -33,7 +33,8 @@ public class ServletGetPost extends HttpServlet {
 		saida.write("Resposta do método post post post");
 		saida.write("</BODY></HTML>");
 		saida.close();
+		// resultado dever de programação
     }
 
 }
-//deve de programação 
+
